@@ -33,6 +33,7 @@ ________________________________________
 6.	Forecasting: Used Power BI forecasting tools to project sales trends.
 ________________________________________
 ## Dashboard
+![ss1](https://github.com/user-attachments/assets/571d7efd-49bf-4a11-b325-be003c8ef122)
 
 ![ss2](https://github.com/user-attachments/assets/1b7f2412-57c4-4c1a-aef0-1914d3852a64)
 
