@@ -22,7 +22,7 @@ ________________________________________
 7.	How effective are same-day shipping and other modes in terms of revenue generation?
 8.	How do different product categories (Office Supplies, Technology, Furniture) contribute to overall sales?
 
-- <a href="">View Dataset Used</a>
+- <a href="https://github.com/nehajadhav-projects/Super-Store/blob/main/SuperStore_Sales_Dataset.csv">View Dataset Used</a>
 ________________________________________
 ## Process
 1.	Data Collection: Collected historical sales data, including metrics such as order date, sales, profit, quantity, and state.
