@@ -34,6 +34,8 @@ ________________________________________
 ________________________________________
 ## Dashboard
 
+![ss2](https://github.com/user-attachments/assets/1b7f2412-57c4-4c1a-aef0-1914d3852a64)
+
 
 ________________________________________
 ## Insights from the Dashboard
