@@ -11,6 +11,9 @@ ________________________________________
 5.	Track Product Performance: Identify top-performing categories and subcategories.
 6.	Optimize Shipping Methods: Assess shipping mode usage and identify cost-effective options.
 7.	Forecast Future Sales: Provide a predictive analysis of sales for better planning.
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiYzkzYmMwOWEtYjRmNC00OTc0LWE2NmItZjFjNTkwNzM2N2YwIiwidCI6Ijg5MDI1YjA2LWY2NTItNGM1Mi1hODEzLTgyNGU2YWIyZjVlNiJ9">View Live Interactive Dashboard</a>
+
 ________________________________________
 ## Questions Based on the Project
 1.	Which state contributes the most to sales and profits?
